@@ -34,7 +34,7 @@ Despite completing all necessary development, the project did not proceed to pro
 - Manage kids in Family groups (for parents)
 - Set users Role (only for admin)
 
-### Achievements
+### Achievements
 - Redeem codes to unlock achievements
 - Generate achievements codes (only for admins and monitors)
 
